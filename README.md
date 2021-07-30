@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ayokunle Samuel
+- 👀 I’m interested in analysis and modelling of solar power systems using python
