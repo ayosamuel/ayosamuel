@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ayokunle Samuel
-- 👀 I’m analysis and modelling of solar power systems using python, Azure tool
+- 👀 I analysis and work with  of meteorological, solar PV engineering and site data.
