@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ayokunle Samuel
-- 👀 I analysis and work with  of meteorological, solar PV engineering and site data.
+- Data and analytics engineer with experience in energy and meteorological industry.
