@@ -11,5 +11,5 @@ See the work (2-min each):
 - Power Platform app for meteo data acquisition — demo | repo
 - Power platform for business process automation
 
-Services: Diagnostics & roadmap → Implementation → Retainer
+Services: Diagnostics & roadmap → Implementation → Retainer.
 Contact: ayo.adenigba@leitway.com
