@@ -1,4 +1,4 @@
-#  Analytics Engineer (Leitway — Portfolio)
+#  Analytics Engineer (Portfolio)
 
 Name: Ayokunle Samuel
 What I do:
