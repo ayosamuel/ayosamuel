@@ -1,8 +1,8 @@
-#  Freelance Analytics Engineer (Leitway — Portfolio)
+#  Analytics Engineer (Leitway — Portfolio)
 
 Name: Ayokunle Samuel
 What I do:
-Data pipelines & analytics for renewable & business portfolios; expanding into energy system modeling & market analytics.
+Data pipelines & analytics - renewable & business portfolios; system optimization & market analytics.
 
 See the work (2-min each):
 - PV KPI & Site Acceptance (Power BI + dbt + Snowflake) — video | repo | live screenshots
