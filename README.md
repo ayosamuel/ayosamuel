@@ -1,8 +1,9 @@
 #  Analytics Engineer (Portfolio)
 
-Name: Ayokunle Samuel
+Name: Ayokunle Samuel.
+
 What I do:
-ELT/ETL pipelines and analytics  - renewables & business portfolios; system optimization & market analytics.
+build ELT/ETL pipelines and analytics solutions.
 
 work/projects:
 - PV KPI & Site Acceptance (Power BI + dbt + Azure databricks ) 
