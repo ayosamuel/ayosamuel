@@ -3,7 +3,7 @@
 Name: Ayokunle Samuel.
 
 What I do:
-build ELT/ETL pipelines and analytics solutions.
+build ELT/ETL pipelines and analytics solutions. Domain expert in Solar PV, BESS, Renewable Energy systems and Business.
 
 work/projects:
 - PV KPI & Site Acceptance (Power BI + dbt + Azure databricks ) 
